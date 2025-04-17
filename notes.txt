@@ -1,0 +1,4 @@
+
+The access modifiers for the overriden methods-> should be same or better?
+For eg-> If in the parent -> method was protected-> then in the child it either should be public / protected . It cannot be more restrictive than protective. It cannot be private. If u put private-> u get an error.
+
